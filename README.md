@@ -1,3 +1,3 @@
 # buymystuff - the ecommerce site
 
-<img src="https://giphy.com/gifs/26FfhWckZ6ic5pTYk/html5" width="40" height="40" />
+<a href="https://imgflip.com/gif/20d799"><img src="https://i.imgflip.com/20d799.gif" title="made at imgflip.com"/></a>
