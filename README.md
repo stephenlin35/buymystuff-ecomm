@@ -1,2 +1,2 @@
-# testing-ecommerce
-Storing for deployment testing
+# buymystuff - the ecommerce site
+
